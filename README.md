@@ -38,7 +38,7 @@ Sou estudante e desenvolvedor focado em **Robótica de Competição**, automaç�
 
 ## Projetos em Destaque — Equipe Prodixy #9195
 
-### [MUKeka](https://github.com/PVPA23/MUKeka) *(Temporada FRC 2026)*
+### [Muke](https://github.com/PVPA23/Muke) *(Temporada FRC 2026)*
 Código completo de controle do robô utilizando arquitetura **Command-Based (WPILib 2026)**:
 - **DriveSubsystem:** Tração diferencial (*Arcade Drive*) com 4 controladores **SparkMax** e 3 modos dinâmicos de pilotagem (`NORMAL`, `SLOW` e `AGGRESSIVE`) suavizados com `SlewRateLimiter`.
 - **IntakeSubsystem:** Controle híbrido combinando motor **CIM (Brushed)** contínuo em Teleop e motor **NEO (Brushless)** com máquina de estados em *Toggle/Latch* (`FORWARD`, `REVERSE`, `STOP`) e proteção de corrente/limit switches.
